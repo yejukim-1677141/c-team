@@ -4,11 +4,9 @@ The Community Coders
 
 # Team Members :
 
-Chandrashree Karnani - Project Manager 
+Kendall Marshall - Project Manager 
 
 Mequanent Shiferaw - Developer 1
-
-Kendall Marshall - Developer 2
 
 Ye Ju Kim - Designer 
 
