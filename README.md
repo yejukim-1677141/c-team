@@ -4,9 +4,13 @@ The Community Coders
 
 # Team Members :
 
-Kendall Marshall - Project Manager 
+Waheeda Hakim - Project Manager 
 
-Mequanent Shiferaw - Developer 1
+Kendall Marshall - Developer 1
+
+Mequanent Shiferaw - Developer 2
+
+Drishti Vidyarthi - Developer 3
 
 Ye Ju Kim - Designer 
 
