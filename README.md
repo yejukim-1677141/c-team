@@ -1,10 +1,10 @@
 # Team Name :
 
-The Community Coders 
+The Community Coders
 
 # Team Members :
 
-Waheeda Hakim - Project Manager 
+Waheeda Hakim - Project Manager
 
 Kendall Marshall - Developer 1
 
@@ -12,11 +12,11 @@ Mequanent Shiferaw - Developer 2
 
 Drishti Vidyarthi - Developer 3
 
-Ye Ju Kim - Designer 
+Ye Ju Kim - Designer
 
 # Mission Statement :
 
-Serving as a helping hand for **local businesses**
+Providing a platform for **local businesses** to increase consumer outreach.
 
 # Problem Statement :
 
