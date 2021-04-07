@@ -26,6 +26,7 @@ businesses within their area and set radius. Within this page users can see post
 see a map of where businesses are, and will be presented with a side bar of featured
 businesses. The user can click on the business icon or the name to navigate to
 the business profile.
+![screenshot1](newsfeed.png)
 
 **Business Profiles**
 The main interaction on this platform would be allowing the user to see the profile
