@@ -26,7 +26,7 @@ businesses within their area and set radius. Within this page users can see post
 see a map of where businesses are, and will be presented with a side bar of featured
 businesses. The user can click on the business icon or the name to navigate to
 the business profile.
-![screenshot1](newsfeed.png)
+![newsfeed screenshot](newsfeed.png)
 
 **Business Profiles**
 The main interaction on this platform would be allowing the user to see the profile
@@ -36,12 +36,14 @@ user by either using the search bar or clicking on the name of a the business wi
 the feed. These profiles are used as an overview of the business to provide the user
 basic information to allow the user to determine their interest in the business and
 to allow them to visit or buy from the business.
+![profile screenshot](profile.png)
 
 **Business Location Map**
 The last main feature is a map to inform users of small businesses near them. Users
 can scroll through the map to find different businesses near their location. By
 clicking on the map in the corner, it will expand to the fit the screen
 so the user can get a better view.
+![map screenshot](map.png)
 
 **Additional Features**
 In addition, we will also have a newsfeed where the businesses can share new information or any
@@ -57,3 +59,5 @@ There are two main reasons that a user would trigger an error state: a business 
 not found or out of area and if the user is in an area that is not yet supported
 (we are initially only supporting businesses found in King County). When a user does
 produce this error, they are prompted with a error message and told to navigate back.
+![error screenshot](error.png)
+
