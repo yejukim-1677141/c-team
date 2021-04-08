@@ -12,7 +12,6 @@ Often times, businesses that are just starting or aren't as well known often end
 don't have enough customer outreach.
 
 ## Solution :
-
 For our solution, we are envisioning a website where a business can create an account
 where they will be able to post events, pictures, and promotions to a public feed.
 Our solution both provides businesses a platform to post and create awareness to
@@ -25,12 +24,14 @@ Users will first be presented with a page that has a feed of posts from local
 businesses within their area and set radius. Within this page, users can see postings,
 see a map of where businesses are, and will be presented with a side bar of featured
 businesses. The user can click on the business icon or the name to navigate to
-the business profile.
+the business profile. Within this business posting feed local users can like, comment and share posting
+other businesses. Business owners themselves will have the option to create their own customize posts.
 ![newsfeed screenshot](newsfeed.png)
 
 **Business Profiles**
-The main interaction on this platform would be allowing the user to see the profile
-of a small, local business which would include information about the business and
+To use our platform businesses need to create an account using their business name, address
+and email. With this, the main interaction on this platform would be allowing the user (business owners) 
+to see the profile of a small, local business which would include information about the business and
 other important information for the user. The business profiles will be found by the
 user by either using the search bar or clicking on the name of a the business within
 the feed. These profiles are used as an overview of the business to provide the user
