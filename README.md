@@ -29,6 +29,6 @@ The amount of small independent businesses are sharply declining due to a variet
  **Description:**
 In this document we will describe the requirements necessary to our product.  We will be mainly focusing on a feed that will aid local businesses in reaching out to their communities to increase sales. In addition, this document lists features that are currently out of scope given our timeline, budget, and available resources.
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Feature  |          Description                        | Implementation Type  |
+| :-----:  |            :---------:                            | :--------: |
+| Nav Menu | Navigation capabilities at the top of every screen to allow users to navigate the website | 283 |
