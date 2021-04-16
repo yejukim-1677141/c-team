@@ -32,8 +32,7 @@ In this document we will describe the requirements necessary to our product.  We
 | Feature  |          Description                        | Implementation Type  |
 | :-----:  |            :---------:                            | :--------: |
 | Nav Menu | Navigation capabilities at the top of every screen to allow users to navigate the website | Required |
-| Business Posting 
-Feed/Home Page |  Allows users to post descriptions to the feed. This also acts as a home page. | Requuired |
+| Business Posting Feed/Home Page |  Allows users to post descriptions to the feed. This also acts as a home page. | Requuired |
 | Footer |  Copyright by c-team and contact us.  | Required |
 | Error Page |  Page displayed when a user comes across an error| Required |
 | About Page |  A web page to describe the product and the creators | Nice-To-Have |
